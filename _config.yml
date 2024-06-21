@@ -12,7 +12,7 @@ title                    : "James Parry"
 title_separator          : "-"
 name                     : &name "James Parry"
 description              : &description "PhD Graduate in Fluid Dynamics with heat Transfer at the University of Bath"
-url                      : https://james-parry.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jamesparry1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "james-parry.github.io/"
 
