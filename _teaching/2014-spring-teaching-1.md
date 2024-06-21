@@ -2,7 +2,7 @@
 title: "Consultant: Team Bath Drones"
 collection: teaching
 type: "Undergraduate course"
-# permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Bath, Department of Engineering"
 date: 2019 - 2024
 location: "Bath, UK"
