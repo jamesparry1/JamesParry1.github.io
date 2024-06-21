@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "JamesParry"
+  uri         : "jamesparry.github.io/"
+  email       : "jp905@bath.ac.uk"
+  bio         : "James Parry, PhD in Aerospace Engineering at the University of Bath."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  # twitter     : "name"
+  # google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
