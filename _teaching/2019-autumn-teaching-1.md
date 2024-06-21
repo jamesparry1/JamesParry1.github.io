@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-autumn-teaching-1
 venue: "University of Bath, Department of Mechanical Engineering"
-date: 2019 - 2024
+date: 2020-09-01
 location: "Bath, UK"
 ---
 
