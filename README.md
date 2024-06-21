@@ -1,3 +1,7 @@
+# About
+
+This is a fork from Academic Pages, updated for James Parry. 
+
 
 # Academic Pages
 
