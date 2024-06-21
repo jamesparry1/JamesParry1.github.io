@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Consultant: Team Bath Drones"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+# permalink: /teaching/2014-spring-teaching-1
+venue: "University of Bath, Department of Engineering"
+date: 2019 - 2024
+location: "Bath, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Consultant for Team Bath Drones - UAS competition team in the Department of Mechanical Engineering. Involved in the design and build of UAS/UAM, specialising in propulsion, structures and performance design and project management.
 
 Heading 1
 ======
