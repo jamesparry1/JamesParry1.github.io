@@ -1,0 +1,16 @@
+---
+title: "Academic Supervisor"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2020-academic-supervisor
+venue: "University of Bath, Department of Mechanical Engineering"
+date: 2020-09-01
+location: "Bath, UK"
+---
+
+Technical supervisor for students undertaking their MEng individual thesis. Topics include:
+  -Advanced post-processing analysis in Python for CFD.
+  -Radiation modelling of turbomachinery in OpenFOAM.
+  -Modelling blade-wake interaction in ducted propellers.
+  -Modelling propeller transition for UAM.
+  -Optimisation of passive variable pitch proprotors for tiltrotor UAS.
